@@ -9,3 +9,6 @@ Growth curve modeling is essential in various fields such as psychology, economi
 Longitudinal data analysis involves studying data collected from the same subjects over multiple time points. Social network data, which captures relationships and interactions among individuals, presents unique challenges due to its complex structure and dependencies. Analyzing longitudinal social network data requires specialized statistical techniques that can account for both the temporal dynamics and the network dependencies. This project aims to develop and apply advanced longitudinal data analysis methods to social network data, enabling researchers to uncover patterns and trends in social interactions over time. Particularly, we will analyze a weekly social network data collected from a group of individuals to understand how their interactions evolve and how these changes relate to smoking and alcohol use behaviors.
 
 ## Project 3. Mediation analysis with a text mediator: Comparisions of methods to ellicit information from text data.
+
+
+## Project. Create an R package with multilevel and longitudinal datasets
